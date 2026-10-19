@@ -61,6 +61,8 @@ public class GameEngine {
 
     public boolean hasUserQuit() {
         return userQuit;
+    }
+    
     public boolean isGameOver() {
         return gameOver;
     }
